@@ -1,2 +1,11 @@
-# flutter-login-page
-This app provides a smooth and visually appealing login and signup experience. Users can enter their credentials or sign up for a new account with ease.
+##Awesome Login Page In Flutter
+This Flutter app provides a beautiful login and signup page for your application.
+##Screenshots
+
+
+Project Structure
+The project structure is organized as follows:
+
+main.dart: Entry point of the application.
+login.dart: Contains the MyLogin widget for the login page.
+sign_in.dart: Contains the LoginPage widget for the signup page.
