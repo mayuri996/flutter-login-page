@@ -4,7 +4,8 @@ This Flutter app provides a beautiful login and signup page for your application
 
 ## Screenshots
 
-| <img src="login.jpg"  width="300"/> | <img src="register.jpg" width="300"/>  |
+| <img src="Screenshot_2023-07-21-08-21-41-52_1d6682e413e3e4642414647351799991.jpg
+"  width="300"/> | <img src="register.jpg" width="300"/>  |
 
 ---
 
